@@ -1,7 +1,7 @@
 import streamlit as st
 import yolov5
 
-model = yolov5.load("yolov5s.pt")  # 加载 YOLOv5s 模型
+model = yolov5.load("./models/yolov5s.pt")  # 加载 YOLOv5s 模型
 
 # 设置标题和文件上传小部件
 st.title("YOLOv5 目标检测")
