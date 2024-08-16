@@ -2,3 +2,4 @@ streamlit>=1.30
 streamlit-webrtc>=0.47
 opencv-python-headless
 numpy>=1.26
+yolov5
