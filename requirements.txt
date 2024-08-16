@@ -2,4 +2,7 @@ streamlit>=1.30
 streamlit-webrtc>=0.47
 opencv-python-headless
 numpy>=1.26
+<<<<<<< HEAD
 yolov5
+=======
+>>>>>>> 16eab7bed0d6314755e07a69090acafa799e2307
