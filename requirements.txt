@@ -1,4 +1,7 @@
 streamlit>=1.30
+pytorch==1.7.1
+torchvision 
+torchaudio
 streamlit-webrtc>=0.47
 opencv-python-headless
 numpy>=1.26
