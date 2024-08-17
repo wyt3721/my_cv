@@ -1,5 +1,5 @@
 streamlit>=1.30
-pytorch
+#pytorch
 streamlit-webrtc>=0.47
 opencv-python-headless
 numpy>=1.26
