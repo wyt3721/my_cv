@@ -1,3 +1,4 @@
+python==3.8
 streamlit>=1.30
 #pytorch
 streamlit-webrtc>=0.47
@@ -7,7 +8,7 @@ yolov5
 gitpython>=3.1.30
 matplotlib>=3.3
 numpy>=1.23.5
-opencv-python>=4.1.1
+#opencv-python>=4.1.1
 pillow>=10.3.0
 psutil  # system resources
 PyYAML>=5.3.1
